@@ -1,16 +1,26 @@
-## Hi there 👋
+### Seja bem-vindo! Meu nome é Albert Mariano
+---
 
-<!--
-**AlbertdosSantosMariano/AlbertdosSantosMariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cursando Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), tenho o objetivo de atuar na área de desenvolvimento Back-end.
 
-Here are some ideas to get you started:
+Estou empenhado em adquirir e consolidar meus conhecimentos em lógica de programação e no domínio das linguagens Python, C, HTML5. Ao longo do tempo vocês vão ver meus projetos, com eu construindo meus primeiros códigos e scripts práticos e se adaptando conforme vou me desenvolvendo. Busco uma oportunidade de Estágio onde eu possa aprender com excelentes profissionais, aplicar meus conhecimentos e ideias, e evoluir e me desenvolver diariamente como desenvolvedor e profissional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Linguagens de programação
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+</div>
+
+---
+
+<div>
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Header Banner" />
+</div>
+
+<br>
